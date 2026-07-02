@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="150" viewBox="0 0 760 150" role="img" aria-label="AEROFORM logo">
+  <title>AEROFORM Logo</title>
+  <desc>Minimal functional running brand logo system for AEROFORM.</desc>
+  
+  <g transform="translate(24,20) scale(0.78)">
+    <g id="aeroform-mark" fill="#D6FF00">
+      <path d="M16 92 L150 32 L124 60 L70 72 L112 72 L86 92 Z"/>
+      <path d="M70 99 L170 68 L146 92 L106 99 L150 101 L122 116 Z" opacity="0.92"/>
+      <path d="M96 74 L133 62 L113 84 L91 88 Z" fill="#0D0D0D" opacity="0.95"/>
+    </g>
+    </g>
+    <text x="190" y="84" fill="#F5F5F2"
+      font-family="Montserrat, Orbitron, Eurostile, 'Arial Black', Arial, sans-serif"
+      font-size="50" font-weight="600" letter-spacing="11"
+      dominant-baseline="middle">AEROFORM</text>
+    
+</svg>
